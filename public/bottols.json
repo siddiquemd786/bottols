@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Spring Water Bottle Natural",
+    "image": "https://www.pexels.com/photo/vacuum-flask-on-brown-wooden-dock-1188649/",
+    "brand": "NaturePure",
+    "price": 6.99,
+    "capacity": "500ml",
+    "color": "Transparent Blue",
+    "weight": "50g"
+  },
+  {
+    "id": 2,
+    "name": "Stainless Steel Insulated Bottle",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fnice-glass-water-bottle-400-ml-2854211392397.html%3Fsrsltid%3DAfmBOorcCedOWedBQSM_GDQr8RiY9fKo2UePcYyGxJ3wyLEOGx2z1qUM&psig=AOvVaw3l2JqwSNKg72hGPkgNF5-n&ust=1758606696385000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLC-i83W648DFQAAAAAdAAAAABAE",
+    "brand": "SteelTherm",
+    "price": 24.50,
+    "capacity": "750ml",
+    "color": "Matte Black",
+    "weight": "350g"
+  },
+  {
+    "id": 3,
+    "name": "HydroFlask Style Reusable Bottle",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnayasa.com%2Fproducts%2Fturbo-water-bottle%3Fsrsltid%3DAfmBOopmRpOn3PCsUAgcS5EWnZMK6tRpTx6bFRk6cVjuz7zKhpvEfp9z&psig=AOvVaw3l2JqwSNKg72hGPkgNF5-n&ust=1758606696385000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLC-i83W648DFQAAAAAdAAAAABAL",
+    "brand": "HydroFlask",
+    "price": 29.99,
+    "capacity": "1L",
+    "color": "Teal",
+    "weight": "400g"
+  },
+  {
+    "id": 4,
+    "name": "Plastic Sports Bottle",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fkalitheatre.co.uk%2FBottle-At-Best-Price-In-New-Delhi-By-Vaishavi-Nice-Water-Bottles-a-425412&psig=AOvVaw3l2JqwSNKg72hGPkgNF5-n&ust=1758606696385000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLC-i83W648DFQAAAAAdAAAAABA3",
+    "brand": "SportyFlex",
+    "price": 12.00,
+    "capacity": "600ml",
+    "color": "Red",
+    "weight": "180g"
+  },
+  {
+    "id": 5,
+    "name": "Everyday Plastic Bottle",
+    "image": "https://www.google.com/imgres?q=nice%20water%20bottle&imgurl=https%3A%2F%2Fhotmerch.co.uk%2Fcdn%2Fshop%2Fproducts%2Fbottle-have-a-nice-day_1024x1024.jpg%3Fv%3D1603670758&imgrefurl=https%3A%2F%2Fhotmerch.co.uk%2Fproducts%2Fhave-a-nice-day-insulated-water-bottle&docid=UCTPFNVhBvtNqM&tbnid=LbcaRNGDhxFgYM&vet=12ahUKEwjX49vL1uuPAxURzzgGHUDTHDoQM3oECFIQAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwjX49vL1uuPAxURzzgGHUDTHDoQM3oECFIQAA",
+    "brand": "AquaPure",
+    "price": 4.50,
+    "capacity": "1.5L",
+    "color": "Clear",
+    "weight": "120g"
+  },
+  {
+    "id": 6,
+    "name": "Eco-Friendly Bamboo Bottle",
+    "image": "https://www.google.com/imgres?q=nice%20water%20bottle&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F711O3nhG%2BLL._UF894%2C1000_QL80_.jpg&imgrefurl=https%3A%2F%2Fprisikelimas.lt%2F667084%2FHot-And-Cold-Drinks-Leak-Proo-Nice-Water-Bottles&docid=d4k8JLQOrrlQGM&tbnid=TINi8fObvrFiWM&vet=12ahUKEwjX49vL1uuPAxURzzgGHUDTHDoQM3oECEwQAA..i&w=894&h=894&hcb=2&ved=2ahUKEwjX49vL1uuPAxURzzgGHUDTHDoQM3oECEwQAA",
+    "brand": "EcoSip",
+    "price": 19.99,
+    "capacity": "700ml",
+    "color": "Brown",
+    "weight": "280g"
+  },
+  {
+    "id": 7,
+    "name": "ThermoPro Flask Bottle",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fprisikelimas.lt%2F666792%2FWater-Bottle-At-U20b9-30-piece-Insulated-Best-Insulated&psig=AOvVaw3l2JqwSNKg72hGPkgNF5-n&ust=1758606696385000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLC-i83W648DFQAAAAAdAAAAABBu",
+    "brand": "ThermoPro",
+    "price": 34.75,
+    "capacity": "1.2L",
+    "color": "Silver",
+    "weight": "500g"
+  },
+  {
+    "id": 8,
+    "name": "Colorful Plastic Bottles Pack",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhotmerch.co.uk%2Fproducts%2Fnaughty-or-nice-insulated-water-bottle&psig=AOvVaw3l2JqwSNKg72hGPkgNF5-n&ust=1758606696385000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqGAoTCLC-i83W648DFQAAAAAdAAAAABCEAQ",
+    "brand": "ColorSplash",
+    "price": 15.00,
+    "capacity": "600ml",
+    "color": "Assorted",
+    "weight": "200g"
+  },
+  {
+    "id": 9,
+    "name": "Traveler’s Lightweight Bottle",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.walmart.com%2Fip%2F250-500ML-Water-Hydration-Bottle-Handheld-Water-Bottle-for-Running-Outdoor-Camping-Hiking-Nice-Soft-Flask-Sports-Cycling-Running-Water-Bag%2F695078969&psig=AOvVaw3l2JqwSNKg72hGPkgNF5-n&ust=1758606696385000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqGAoTCLC-i83W648DFQAAAAAdAAAAABCPAQ",
+    "brand": "TravelMate",
+    "price": 10.50,
+    "capacity": "750ml",
+    "color": "Green",
+    "weight": "150g"
+  },
+  {
+    "id": 10,
+    "name": "Glass Water Bottle",
+    "image": "https://www.google.com/imgres?q=nice%20water%20bottle&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F25%2F19%2Fec%2F2519ec1b9dabc5d9f2f3ec2a69cc35fd.jpg&imgrefurl=https%3A%2F%2Fwww.ranclikavka.sk%2F50pcs-Souvenir-Wholesale-Nice-Water-Bottles-400ml-Nigeria%2F421318&docid=NJJZJCvVGChfSM&tbnid=M-p6vo-CZ2yguM&vet=12ahUKEwjd0Mr31uuPAxX2yzgGHf2ONKY4ChAzegQISRAA..i&w=600&h=903&hcb=2&ved=2ahUKEwjd0Mr31uuPAxX2yzgGHf2ONKY4ChAzegQISRAA",
+    "brand": "PureGlass",
+    "price": 18.99,
+    "capacity": "500ml",
+    "color": "Transparent",
+    "weight": "320g"
+  }
+]
